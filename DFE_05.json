@@ -664,7 +664,7 @@
       }
     },
     {
-      "id":  "Guide1",
+      "id":  "Guide1b",
       "type": "https://w3id.org/ontoeng/factory#Artifact",
       "representations": [
         {
@@ -672,7 +672,7 @@
           "unit": 1
         }
       ],
-      "position": [-2108, 232, 990],
+      "position": [-2108, 252, 990],
       "rotation": [0, -1.7985, 0],
       "placementRelTo": "building",
       "properties": {
@@ -683,7 +683,7 @@
       }
     },
     {
-      "id":  "Guide2",
+      "id":  "Guide2b",
       "type": "https://w3id.org/ontoeng/factory#Artifact",
       "representations": [
         {
@@ -691,7 +691,7 @@
           "unit": 1
         }
       ],
-      "position": [-2143, 232, 1141],
+      "position": [-2143, 252, 1141],
       "rotation": [0, -1.7985, 0],
       "placementRelTo": "building",
       "properties": {
@@ -702,7 +702,7 @@
       }
     },
     {
-      "id":  "Guide1",
+      "id":  "Guide1c",
       "type": "https://w3id.org/ontoeng/factory#Artifact",
       "representations": [
         {
@@ -710,7 +710,7 @@
           "unit": 1
         }
       ],
-      "position": [-2108, 232, 990],
+      "position": [-2108, 272, 990],
       "rotation": [0, -1.7985, 0],
       "placementRelTo": "building",
       "properties": {
@@ -721,7 +721,7 @@
       }
     },
     {
-      "id":  "Guide2",
+      "id":  "Guide2c",
       "type": "https://w3id.org/ontoeng/factory#Artifact",
       "representations": [
         {
@@ -729,7 +729,7 @@
           "unit": 1
         }
       ],
-      "position": [-2143, 232, 1141],
+      "position": [-2143, 272, 1141],
       "rotation": [0, -1.7985, 0],
       "placementRelTo": "building",
       "properties": {
