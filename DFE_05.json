@@ -31,6 +31,8 @@
     "Guide2",
     "Guide1b",
     "Guide2b",
+    "Guide1c",
+    "Guide2c",
     "PP2",
     "PP2.FloatingX",
     "PP2.FloatingZ",
@@ -621,6 +623,44 @@
         "mass":  1,
          "restitution":  0.1,
          "friction":  0.95
+      }
+    },
+    {
+      "id":  "Guide1",
+      "type": "https://w3id.org/ontoeng/factory#Artifact",
+      "representations": [
+        {
+          "file": "Stopper.glb",
+          "unit": 1
+        }
+      ],
+      "position": [-2108, 232, 990],
+      "rotation": [0, -1.7985, 0],
+      "placementRelTo": "building",
+      "properties": {
+        "mass":  0,
+         "restitution":  0.3,
+         "friction":  0.0,
+         "MotionType":  "ANIMATED"
+      }
+    },
+    {
+      "id":  "Guide2",
+      "type": "https://w3id.org/ontoeng/factory#Artifact",
+      "representations": [
+        {
+          "file": "Stopper.glb",
+          "unit": 1
+        }
+      ],
+      "position": [-2143, 232, 1141],
+      "rotation": [0, -1.7985, 0],
+      "placementRelTo": "building",
+      "properties": {
+        "mass":  0,
+         "restitution":  0.3,
+         "friction":  0.0,
+         "MotionType":  "ANIMATED"
       }
     },
     {
