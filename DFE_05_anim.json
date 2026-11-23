@@ -50,6 +50,126 @@
           } 
         } 
       ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "2000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t1"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "4000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t2"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "6000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t3"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "9000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t4"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "12000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t5"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "15000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t6"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "18000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t7"
+          } 
+        } 
+      ] 
+    },
+    {
+      "id":  "PP2",
+       "actions":  [
+        {
+          "trigger":  {
+            "type":  "timestamp",
+             "data":  "21000"
+          },
+           "event":  {
+            "type": "sendEvent",
+            "data":  "t8"
+          } 
+        } 
+      ] 
     }
   ],
    "sequences":  [],
