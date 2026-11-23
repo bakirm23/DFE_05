@@ -623,9 +623,10 @@
             },
                    "entry":  [
                        {
-                 "action":  "moveTo",
+                 "action":  "moveAdditive",
                  "target":  "PP2.FloatingX",
-                 "position":  [-244, 369, 25] 
+                 "position":  [0, 0, -89],
+                 "rotation":  [0, 0, 0] 
               },
                        {
                  "action":  "moveTo",
@@ -691,9 +692,10 @@
             },
                    "entry":  [
                        {
-                 "action":  "moveTo",
+                 "action":  "moveAdditive",
                  "target":  "PP2.FloatingX",
-                 "position":  [-244, 369, 105] 
+                 "position":  [0, 0, 80],
+                 "rotation":  [0, 0, 0] 
               },
                        {
                  "action":  "moveTo",
@@ -720,9 +722,10 @@
             },
                    "entry":  [
                        {
-                 "action":  "moveTo",
+                 "action":  "moveAdditive",
                  "target":  "PP2.FloatingX",
-                 "position":  [-244, 369, 363] 
+                 "position":  [0, 0, 258],
+                 "rotation":  [0, 0, 0] 
               }       
             ]     
           },
@@ -752,7 +755,7 @@
           },
                "cornerD":  {
                    "on":  {
-               "t8":  "hover" 
+               "t8":  "home" 
             },
                    "entry":  [
                        {
@@ -764,6 +767,21 @@
                  "action":  "moveTo",
                  "target":  "PP2.FloatingZ",
                  "position":  [-120, 80, 7] 
+              }       
+            ]     
+          },
+               "home":  {
+                   "entry":  [
+                       {
+                 "action":  "moveAdditive",
+                 "target":  "PP2.FloatingX",
+                 "position":  [0, 0, -338],
+                 "rotation":  [0, 0, 0] 
+              },
+                       {
+                 "action":  "moveTo",
+                 "target":  "PP2.FloatingZ",
+                 "position":  [-120, 80, -54] 
               }       
             ]     
           }   
