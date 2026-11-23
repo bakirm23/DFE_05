@@ -27,6 +27,7 @@
     "C1",
     "C2",
     "part_test",
+    "part_test2",
     "PP2",
     "PP2.FloatingX",
     "PP2.FloatingZ",
@@ -593,6 +594,24 @@
         }
       ],
       "position": [-2208, 230, 2750],
+      "rotation": [0, 0, 0],
+      "placementRelTo": "building",
+      "properties": {
+        "mass":  1,
+         "restitution":  0.1,
+         "friction":  0.95
+      }
+    },
+    {
+      "id":  "part_test2",
+      "type": "https://w3id.org/ontoeng/factory#Artifact",
+      "representations": [
+        {
+          "file": "Part.glb",
+          "unit": 1
+        }
+      ],
+      "position": [-1900, 230, 881],
       "rotation": [0, 0, 0],
       "placementRelTo": "building",
       "properties": {

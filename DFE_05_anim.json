@@ -27,7 +27,7 @@
         {
           "trigger":  {
             "type":  "timestamp",
-             "data":  "300000"
+             "data":  "1000"
           },
            "event":  {
             "type": "sendEvent",
@@ -42,7 +42,7 @@
         {
           "trigger":  {
             "type":  "timestamp",
-             "data":  "300000"
+             "data":  "1000"
           },
            "event":  {
             "type": "sendEvent",
